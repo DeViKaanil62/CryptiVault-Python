@@ -26,7 +26,7 @@ A command-line based security tool developed in Python. This application allows 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/DeViKaanil62/CryptiVault-Python.git](https://github.com/DeViKaanil62/CryptiVault-Python.git)
+   git clone https://github.com/YOUR-USERNAME/CryptiVault-Python.git
    cd CryptiVault-Python
 
 2. **Install dependencies:**
@@ -36,3 +36,4 @@ A command-line based security tool developed in Python. This application allows 
 3. **Run the application:**
    ```bash
    python main.py
+
