@@ -1,0 +1,9 @@
+
+# Security files - DO NOT UPLOAD
+secret.key
+data.json
+main_password.json
+
+# Python environment files
+__pycache__/
+*.py[cod]
